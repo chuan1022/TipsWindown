@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/TipsWindown.css"/>
+		<script src="js/TipsWindown.js"></script>
+		<script src="js/index.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body>
+		<input type="button" name="" id="btn1" value="弹窗1" />
+		<input type="button" name="" id="btn2" value="弹窗2" />
+		<input type="button" name="" id="btn3" value="弹窗3" />
+	</body>
+</html>
